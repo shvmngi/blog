@@ -6,15 +6,15 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: snr14x
+title: shvmngi
 description: blog
-github_username: snr14x
+github_username: shvmngi
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://snr14x.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shvmngi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -39,8 +39,8 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: snr14x
-    github: snr14x
+    twitter: shvmngi
+    github: shvmngi
 
 # Set this to true to get LaTeX math equation support
 use_math: 
